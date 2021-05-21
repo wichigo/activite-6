@@ -1,0 +1,21 @@
+body{
+    max-height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+p{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+span
+{
+    flex: 1;
+    max-width: 5vw;
+}
+span #Oh{
+    flex: 2;
+}
